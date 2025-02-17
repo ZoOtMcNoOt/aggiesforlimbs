@@ -26,10 +26,13 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${inter.className} bg-white text-gray-dark`}>
         <Header siteInfo={data.siteInfo} navigation={data.navigation} />
-        <main className="min-h-screen">{children}</main>
+        <main className="min-h-screen">
+          {children}
+          <SpeedInsights />
+          <Analytics />
+        </main>
         <Footer siteInfo={data.siteInfo} socialMedia={data.socialMedia} />
-        <SpeedInsights />
-        <Analytics />
+        
       </body>
     </html>
   )
