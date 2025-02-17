@@ -1,0 +1,170 @@
+{
+  "events": [
+    {
+      "id": "breakfast-bash-2020",
+      "title": "Breakfast Bash 2020",
+      "date": "2020-04-25T10:30:00Z",
+      "endDate": "2020-04-25T14:00:00Z",
+      "status": "cancelled",
+      "cancellationReason": "COVID-19 pandemic safety measures",
+      "location": {
+        "name": "Bachman Park",
+        "address": "1600 Rock Prairie Road",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77845"
+      },
+      "description": "Originally planned as our spring fundraiser featuring a breakfast buffet including pancakes, eggs, bacon, pastries from Panera, fruit, coffee, and more. The event was cancelled due to the evolving situation involving COVID-19, prioritizing the health and safety of attendees, members, and families.",
+      "features": [
+        "Breakfast buffet",
+        "Dog-friendly venue",
+        "Cornhole and horseshoes",
+        "Live music",
+        "AFL and Ashton's Angels merchandise",
+        "Raffle with goodie basket prizes"
+      ],
+      "schedule": {
+        "checkIn": "10:30 AM",
+        "serviceStart": "11:00 AM"
+      },
+      "tickets": {
+        "earlyBird": {
+          "endDate": "2020-04-02",
+          "options": [
+            {
+              "name": "Event Ticket & Shirt",
+              "price": 18,
+              "description": "Includes guaranteed event shirt and meal"
+            },
+            {
+              "name": "Shirt Only",
+              "price": 12,
+              "description": "Event shirt without meal"
+            }
+          ]
+        },
+        "raffle": {
+          "price": 2,
+          "description": "Chance to win goodie basket"
+        }
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_spring_2020_event_img_2_event_graphicc.jpg-AmJm0QN0RlCpSz1U6mZ7VdxNbW3bJ8.jpeg",
+      "cancellationNotice": {
+        "contact": "aggies4limbs.president@gmail.com",
+        "refundInfo": "Full refunds issued for all tickets",
+        "alternativeSupport": "General donations still accepted through separate form"
+      }
+    },
+    {
+      "id": "limb-loss-awareness-2020",
+      "title": "Limb Loss Awareness Month Campaign",
+      "date": "2020-04-20T00:00:00Z",
+      "endDate": "2020-04-24T23:59:59Z",
+      "location": {
+        "name": "Virtual Campaign",
+        "address": "Social Media Platforms",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77843"
+      },
+      "description": "Join Aggies for Limbs in educating others and spreading awareness about limb loss and limb difference. A week-long social media campaign featuring daily challenges, educational facts about limb loss, and inspiring Angel spotlights. This virtual campaign allowed us to continue our mission of awareness and education during the COVID-19 pandemic.",
+      "type": "Virtual Campaign",
+      "features": [
+        "Daily social media challenges",
+        "Educational facts about limb loss",
+        "Daily Angel spotlights",
+        "Community engagement through social media",
+        "Virtual awareness campaign"
+      ],
+      "socialMedia": {
+        "hashtag": "limblossawarenessmonth",
+        "handles": ["@aggiesforlimbs"],
+        "platforms": ["Instagram", "Facebook"]
+      },
+      "engagement": {
+        "duration": "5 days",
+        "posts": 5,
+        "format": "Daily posts with challenges and facts"
+      }
+    },
+    {
+      "id": "walkathon-2020",
+      "title": "AFL Virtual Walkathon 2020",
+      "date": "2020-11-14T09:00:00Z",
+      "endDate": "2020-11-14T17:00:00Z",
+      "location": {
+        "name": "Virtual Event",
+        "address": "Various Locations",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77840"
+      },
+      "description": "In the Fall of 2020, Aggies for Limbs adapted to the COVID-19 pandemic by organizing a virtual walkathon. Members could walk or run a distance of their choice at a location of their choice, allowing for safe participation while maintaining social distancing. This innovative approach enabled us to continue our mission of fundraising for prosthetics while ensuring everyone's safety.",
+      "features": [
+        "Choose your own distance",
+        "Run or walk at your preferred location",
+        "Flexible participation times",
+        "Virtual community support",
+        "COVID-safe fundraising"
+      ],
+      "type": "Virtual Event",
+      "outcome": {
+        "amountRaised": 5668,
+        "participantCount": "18 members participated",
+        "totalDistance": "66 miles collectively covered",
+        "achievement": "Successfully adapted to pandemic conditions while maintaining our fundraising mission"
+      },
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_walkathon_2020_img_1.jpg-ON9PK4xwLmnDMITbFxyyl5RaGxpQj8.jpeg",
+          "alt": "Two AFL members taking a selfie outdoors during their virtual walkathon, one wearing a maroon Texas A&M cap and hydration pack, the other in a white Nike cap"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_walkathon_2020_img_2.jpg-UIVk80MQ9gMotbEJrflz9QyQUO71zZ.jpeg",
+          "alt": "AFL member's selfie wearing organization t-shirt and giving thumbs up, with campus building visible in background"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_walkathon_2020_img_3.jpg-A2f4hHHg8tRm1jptn41xAs6iJw17fk.jpeg",
+          "alt": "AFL member with maroon neck gaiter giving thumbs up during their walkathon segment on a residential street"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_walkathon_2020_img_4.jpg-CRhte6rqUEzDBaPyaBDs2vN6c3bh4H.jpeg",
+          "alt": "Two AFL members in athletic wear posing under covered walkway during evening walkathon participation"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_walkathon_2020_img_5.jpg-6b95VILTdJdrk1rgwK2J6zRn0kifWP.jpeg",
+          "alt": "AFL member showing organization t-shirt during nighttime walkathon segment with campus architecture in background"
+        }
+      ],
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_walkathon_2020_img_1.jpg-ON9PK4xwLmnDMITbFxyyl5RaGxpQj8.jpeg"
+    },
+    {
+      "id": "concession-stand-2020",
+      "title": "Kyle Field Concession Stand Volunteering",
+      "date": "2020-09-26T14:00:00Z",
+      "location": {
+        "name": "Kyle Field",
+        "address": "756 Houston St",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77843"
+      },
+      "description": "During the Fall 2020 semester, AFL members demonstrated their commitment to service by volunteering at Kyle Field's concession stands. Despite the challenges posed by the COVID-19 pandemic, our members safely participated in this volunteer opportunity while following all health protocols, including wearing masks and maintaining social distancing. This event showcased our organization's adaptability and dedication to continuing our service mission even during unprecedented times.",
+      "type": "Service Event",
+      "features": [
+        "COVID-safe volunteering",
+        "Kyle Field concession operations",
+        "Team building opportunity",
+        "Community service"
+      ],
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_fall_2020_img_1.jpg-k1By7Lig8DQ39SEDftchrHWetxLKYV.jpeg",
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_fall_2020_img_1.jpg-k1By7Lig8DQ39SEDftchrHWetxLKYV.jpeg",
+          "alt": "AFL members in grey organization t-shirts and face masks giving thumbs up while volunteering at Kyle Field concession stands during Fall 2020"
+        }
+      ]
+    }
+  ]
+}
+

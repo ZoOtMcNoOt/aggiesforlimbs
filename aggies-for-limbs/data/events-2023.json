@@ -1,0 +1,90 @@
+{
+  "events": [
+    {
+      "id": "bbq-bingo-bash-2023",
+      "title": "BBQ & Bingo Bash 2023",
+      "date": "2023-04-23T13:00:00Z",
+      "endDate": "2023-04-23T15:00:00Z",
+      "location": {
+        "name": "Austin's Colony Park",
+        "address": "2496 Austin's Colony Pkwy",
+        "city": "Bryan",
+        "state": "TX",
+        "zip": "77808"
+      },
+      "description": "BBQ & Bingo Bash is Aggies For Limbs' annual food event for this semester. A food event is held every April near Texas A&M University's campus and is open to all families. This event is a fun gathering where BBQ will be served and several rounds of bingo will be played with prizes given to the winners. 100% of proceeds will be given to Ashton's Angels.",
+      "features": ["BBQ plate", "Yard Games", "Silent Auction", "Bingo games with prizes awarded to winners"],
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_bbq_and_bingo_bash_2023_img_1_event_graphic.jpg-KuJtUgmuBsR3uw0lWHQiCqoBpHUVAp.jpeg"
+    },
+    {
+      "id": "santas-stroll-2023",
+      "title": "Santa's Stroll 2023",
+      "date": "2023-12-03T08:00:00Z",
+      "endDate": "2023-12-03T12:00:00Z",
+      "location": {
+        "name": "Lot 50 on Texas A&M University Campus",
+        "address": "1403 University Dr",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77840"
+      },
+      "description": "Santa's Stroll is Aggies For Limbs' annual 5k event for this semester. A 5k event is held every November or December near Texas A&M University's campus and is open to all families. This event is a fun Christmas themed 5k run or walk to raise money for Ashton's Angels. 100% of proceeds will be given to Ashton's Angels.",
+      "features": [
+        "Dress up in your favorite Christmas gear",
+        "Coffee to keep you warm",
+        "Snacks to fill your belly after you run",
+        "Silent Auction",
+        "T-shirts for sale"
+      ],
+      "schedule": {
+        "checkIn": "8:00 AM",
+        "notes": "Check in will be in the parking lot. There will be free parking at the venue."
+      },
+      "tickets": {
+        "earlyBird": {
+          "endDate": "2023-11-15",
+          "options": [
+            {
+              "name": "Bundle",
+              "price": 28,
+              "description": "Includes t-shirt and admission"
+            },
+            {
+              "name": "T-shirt Only",
+              "price": 20
+            },
+            {
+              "name": "Admission Only",
+              "price": 10
+            }
+          ],
+          "note": "Ordering by 11/15 guarantees you an event t-shirt"
+        },
+        "general": {
+          "startDate": "2023-11-15",
+          "endDate": "2023-12-03",
+          "options": [
+            {
+              "name": "T-shirt",
+              "price": 20
+            },
+            {
+              "name": "Admission",
+              "price": 10
+            }
+          ],
+          "note": "T-shirts after 11/15 will be first come first serve"
+        }
+      },
+      "donationInfo": {
+        "threshold": 100,
+        "benefit": "Name/logo on event t-shirt",
+        "example": "The Tucker Family",
+        "deadline": "2023-04-09",
+        "taxExemptEmail": "ashtonsangelss@gmail.com"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_santas_stroll_2023_img_1_event_graphic.jpg-MlENspGGgHaGx4X3yjoEOnfNJCiAYB.jpeg"
+    }
+  ]
+}
+

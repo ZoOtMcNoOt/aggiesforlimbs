@@ -1,0 +1,21 @@
+{
+  "events": [
+    {
+      "id": "2nd-annual-bingo-bash",
+      "title": "2nd Annual Bingo Bash",
+      "date": "2024-04-14T12:00:00Z",
+      "endDate": "2024-04-14T14:00:00Z",
+      "location": {
+        "name": "Tanglewood Park",
+        "address": "3901 Carter Creek Pkwy",
+        "city": "Bryan",
+        "state": "TX",
+        "zip": "77803"
+      },
+      "description": "Our Second Annual Bingo Bash is Aggies for Limbs' annual food event for the spring! A food event is held every April near Texas A&M University's campus and is open to all families. This event is a fun gathering where BBQ will be served, several bingo rounds will be played, and prizes will be given to winners. 100% of the proceeds will be given to Ashton's Angels.",
+      "features": ["BBQ Plate", "Yard Games", "Silent Auction", "Bingo Games and Prizes"],
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_afl_bingo_bash_2024_img_1_event_graphic.jpg-cTmyCU2Th46Ou1nRCokwI26JcP5pL3.jpeg"
+    }
+  ]
+}
+

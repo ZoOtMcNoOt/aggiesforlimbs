@@ -1,0 +1,164 @@
+{
+  "events": [
+    {
+      "id": "century-square-social-2021",
+      "title": "Century Square Social",
+      "date": "2021-02-15T19:00:00Z",
+      "endDate": "2021-02-15T21:00:00Z",
+      "type": "Social Event",
+      "location": {
+        "name": "Century Square",
+        "address": "175 Century Square Dr",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77840"
+      },
+      "description": "A casual evening social gathering at Century Square, bringing AFL members together for fellowship and community building as we resumed in-person activities with appropriate safety measures.",
+      "features": ["Member social gathering", "Outdoor venue", "Community building", "Safe in-person interaction"],
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_spring_2021_img_18.jpg-Efr3UKtcPv2jOkzowgvi71ey1moGuI.jpeg",
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_spring_2021_img_18.jpg-Efr3UKtcPv2jOkzowgvi71ey1moGuI.jpeg",
+          "alt": "Group of seven AFL members posing together at Century Square during an evening social, with string lights and brick wall in background"
+        }
+      ]
+    },
+    {
+      "id": "big-event-2021",
+      "title": "Big Event Volunteering",
+      "date": "2021-03-27T08:00:00Z",
+      "endDate": "2021-03-27T14:00:00Z",
+      "type": "Service Event",
+      "location": {
+        "name": "Various Locations",
+        "city": "Bryan-College Station",
+        "state": "TX"
+      },
+      "description": "AFL members participated in Texas A&M's Big Event, the largest one-day student-run service project in the nation. Following COVID-19 safety protocols, our members helped local residents with yard work, landscaping, and home improvement projects, demonstrating our continued commitment to community service even during challenging times.",
+      "features": [
+        "Yard work and landscaping",
+        "COVID-safe volunteering",
+        "Team-based service projects",
+        "Community beautification",
+        "Local resident assistance"
+      ],
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_spring_2021_img_1.jpg-736IQmL15v5obB0oEPLvUSEW2iWCku.jpeg",
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_spring_2021_img_1.jpg-736IQmL15v5obB0oEPLvUSEW2iWCku.jpeg",
+          "alt": "AFL members wearing masks and gloves doing landscaping work around a brick house during The Big Event 2021"
+        }
+      ]
+    },
+    {
+      "id": "member-retreat-2021",
+      "title": "Member Retreat",
+      "date": "2021-04-10T09:00:00Z",
+      "endDate": "2021-04-10T17:00:00Z",
+      "type": "Social Event",
+      "location": {
+        "name": "Local Retreat Venue",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77840"
+      },
+      "description": "A day of team building, organization planning, and fellowship for AFL members, strengthening our bonds and planning future initiatives.",
+      "features": ["Team building activities", "Strategic planning", "Leadership development", "Member bonding"],
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_img_5_logo.jpg-er902cVGPqH95z0dplzWEgdtS3Jj9q.jpeg"
+    },
+    {
+      "id": "grand-station-social-2021",
+      "title": "Grand Station Social",
+      "date": "2021-04-24T18:00:00Z",
+      "endDate": "2021-04-24T21:00:00Z",
+      "type": "Social Event",
+      "location": {
+        "name": "Grand Station Entertainment",
+        "address": "2400 Earl Rudder Fwy S",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77840"
+      },
+      "description": "An evening of fun and games at Grand Station Entertainment, celebrating the end of the spring semester and our successful return to in-person activities.",
+      "features": ["Bowling", "Arcade games", "Member social", "End-of-semester celebration"],
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_img_5_logo.jpg-er902cVGPqH95z0dplzWEgdtS3Jj9q.jpeg"
+    },
+    {
+      "id": "prancing-for-prosthetics-2021",
+      "title": "Prancing for Prosthetics 5K 2021",
+      "date": "2021-12-04T08:30:00Z",
+      "endDate": "2021-12-04T12:00:00Z",
+      "location": {
+        "name": "Texas A&M University - Lot 50",
+        "address": "1403 University Dr",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77840"
+      },
+      "description": "Prancing For Prosthetics is Aggies For Limbs annual 5K. The fun run is held every December on Texas A&M University's campus and is open to all families. This event is a fun Christmas-themed run to raise money for Ashton's Angels. 100% of proceeds will be given to Ashton's Angels.",
+      "features": [
+        "Dress up in your favorite Christmas gear",
+        "Coffee to keep you warm",
+        "Treats to fill your belly after you run",
+        "T-shirt included with ticket",
+        "Silent Auction",
+        "Prizes for top finishers"
+      ],
+      "schedule": {
+        "checkIn": "8:30 AM",
+        "raceStart": "9:15 AM",
+        "notes": "Please allow some time to check in, lines can be long. Parking will be in Lot 50, near the ETB (Emerging Technology Building) on the northside of campus, right next to the starting point of the race."
+      },
+      "tickets": {
+        "earlyBird": {
+          "endDate": "2021-10-29",
+          "options": [
+            {
+              "name": "Early Bird Ticket",
+              "price": 20,
+              "description": "Includes guaranteed t-shirt, race entry, and access to all food and drinks"
+            }
+          ]
+        },
+        "general": {
+          "startDate": "2021-10-30",
+          "endDate": "2021-12-03",
+          "options": [
+            {
+              "name": "General Admission",
+              "price": 23,
+              "description": "Includes race entry and access to all food and drinks (t-shirt not guaranteed)"
+            }
+          ]
+        }
+      },
+      "donationInfo": {
+        "threshold": 100,
+        "benefit": "Name/logo on event t-shirt",
+        "example": "The Tucker Family",
+        "deadline": "2021-10-29",
+        "taxExemptEmail": "ashtonsangelss@gmail.com"
+      },
+      "outcome": {
+        "amountRaised": 8000,
+        "achievement": "Successfully raised over $8,000 for prosthetic care"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_prancing_for_prosthetics_2021_img_1.jpg-C0Qhw4BoWBghAtF0Srh24BmNXJtt5E.jpeg",
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_prancing_for_prosthetics_2021_img_1.jpg-C0Qhw4BoWBghAtF0Srh24BmNXJtt5E.jpeg",
+          "alt": "Race finish line with Prancing for Prosthetics banner and inflatable arch, showing young participants with race numbers"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_prancing_for_prosthetics_2021_img_2.jpg-OBky55XH1fd6jmmPJJBx2UY2vQcUna.jpegaggiesforlimbs_wixsite_com_home_prancing_for_prosthetics_2021_img_2.jpg-OBky55XH1fd6jmmPJJBx2UY2vQcUna.jpeg",
+          "alt": "AFL volunteers in Christmas costumes - one as an elf and one as Olaf the snowman directing runners"
+        },
+        {
+          "url": "https://hebbkx1anhilayf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_prancing_for_prosthetics_2021_img_3.jpg-BxypBpysfmIbgjk1YCE6KKAE1407Tg.jpeg",
+          "alt": "Group photo of AFL members and participants at the 2021 Prancing for Prosthetics event"
+        }
+      ]
+    }
+  ]
+}
+

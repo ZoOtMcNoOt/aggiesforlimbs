@@ -1,0 +1,108 @@
+{
+  "angels": [
+    {
+      "id": "marquell",
+      "name": "Marquell",
+      "story": "Meet Marquell, Aggies for Limbs very first recipient! We were so happy to be able to help bring Marquell back on his feet after 5 months of being unable to walk. When given the opportunity to walk again he took full strides with no hesitation. Seeing his determination brought so much joy to our hearts and inspired us to take the same approach in other areas of our own lives. We look forward to hearing about all of the advances he will make in the days to come!",
+      "details": {
+        "Amputation Type": "Below the knee amputation",
+        "Prosthetic Received": "Early 2016",
+        "Current Status": "Able to take full strides, showing determination and joy",
+        "Goals": "Not specified"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/marquell.jpg-zPo8uChqkO1AkGqzywqlXwA4KPUaWI.jpeg"
+    },
+    {
+      "id": "santos",
+      "name": "Santos",
+      "story": "Meet Santos, Aggies for Limbs third Angel. She was so excited to get her prosthetic that she wanted to sleep in it! Now that Santos has her new prosthetic leg, she is able to get her GED and become a teachers assistant.",
+      "details": {
+        "Amputation Type": "Below the knee amputation",
+        "Prosthetic Received": "Late 2016",
+        "Current Status": "Excited and eager to use new prosthetic, even wanting to sleep in it",
+        "Goals": "Get GED and become a teacher's assistant"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/santos.jpg-Jlh9ZAOhnjR5Dd3axBDplOWjFEJHsQ.jpeg"
+    },
+    {
+      "id": "peggy",
+      "name": "Peggy",
+      "story": "We had the pleasure if giving Peggy her prosthetic in early May 2017. Peggy was an above the knee amputee. She is still trying to get used to her new prosthetic. We are very grateful to help Peggy. She has a great attitude and is always joyful.",
+      "details": {
+        "Amputation Type": "Above-knee amputation",
+        "Prosthetic Received": "May 2017",
+        "Current Status": "Still adjusting to new prosthetic, has a great attitude and joyful demeanor",
+        "Goals": "Not specified"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Peggy.jpg-vIKo9LXB41SC4VQUhVDevgbOp73fQG.jpeg"
+    },
+    {
+      "id": "reuben",
+      "name": "Reuben",
+      "story": "Introducing our 4th Angel Reuben Martinez. He is 20 years old and hopes to one day go back to school and become a prosthetist. Reuben was so grateful that he wore his new Aggies for Limbs shirt to his appointment!",
+      "details": {
+        "Amputation Type": "Lower limb amputation",
+        "Prosthetic Received": "Late 2017",
+        "Current Status": "Grateful for new prosthetic, wore AFL shirt to appointment",
+        "Goals": "Return to school and become a prosthetist"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ruben.jpg-ebNl7xtkj0JAtSlTvVbfjyZjBNWbAL.jpeg"
+    },
+    {
+      "id": "roman",
+      "name": "Roman",
+      "story": "Meet Roman, one of our inspiring Angels! As a double amputee, Roman has shown incredible determination throughout his rehabilitation journey. His positive attitude and dedication during physical therapy sessions, where he practices walking with parallel bars, demonstrates the remarkable resilience of the human spirit. We are honored to be part of his journey and to help him regain his mobility through prosthetic care.",
+      "details": {
+        "Amputation Type": "Double below-knee amputee",
+        "Prosthetic Received": "2018",
+        "Current Status": "Showing determination and positive attitude",
+        "Goals": "Regain mobility"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Meet%20Roman!%200-18%20screenshot-Y52gdoxYuaZ4kMnrAtXlkfvTwDxUEJ.png"
+    },
+    {
+      "id": "jorge",
+      "name": "Jorge",
+      "story": "Jorge is our Spring 2019 recipient. He was a double amputee, one above the knee and one below the knee. Due to complications with his amputation, he now has two above the knee amputations. We were able to provide another prosthetic after that surgery during the Fall of 2020.",
+      "details": {
+        "Amputation Type": "Double above-knee amputee",
+        "Prosthetic Received": "Spring 2019, second in Fall 2020",
+        "Current Status": "Adapting to new prosthetics after complications",
+        "Goals": "Not specified"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/jorge%201.jpg-K9marIYKzhAKyizG27h1GBT7Gv1RfX.jpeg",
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_jorge_img_1.jpg-nNm8IEJu2pdAvXP7tTPsrrkgxgQDbq.jpeg",
+          "alt": "Jorge practicing with his new prosthetic legs using parallel bars for support during rehabilitation",
+          "caption": "Jorge taking his first steps with his new prosthetics during fitting"
+        }
+      ]
+    },
+    {
+      "id": "cleto",
+      "name": "Cleto",
+      "story": "Cleto was a below the knee amputee. He received his new prothesis in June 2022. We are so glad that we were able to help him take the next steps in his life both literally and figuratively.",
+      "details": {
+        "Amputation Type": "Below-knee amputation",
+        "Prosthetic Received": "June 2022",
+        "Current Status": "Taking strides with new prosthetic",
+        "Goals": "Return to work and support family"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_cleto_img_1_walking.jpg-ngfAFChhDg55RjD8FNDF6QtEU5Si1f.jpeg",
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_cleto_img_1_walking.jpg-ngfAFChhDg55RjD8FNDF6QtEU5Si1f.jpeg",
+          "alt": "Cleto with AFL members and medical staff at the prosthetics clinic, using parallel bars for support",
+          "caption": "Cleto's fitting session with our team"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_cleto_img_2_fitting.jpg-BnoURVVsr1q0YoRY1LamdOsSqFXMO6.jpeg",
+          "alt": "Medical professional fitting Cleto's prosthetic leg while he sits in a wheelchair",
+          "caption": "Detailed prosthetic fitting process"
+        }
+      ]
+    }
+  ]
+}
+

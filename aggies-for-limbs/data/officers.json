@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Jada Strilchuk",
+    "position": "President",
+    "major": "Senior, Biomedical Engineering",
+    "email": "aggies4limbs.president@gmail.com",
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_officers_img_1_jada_strilchuk.jpg-jfEinf7mKLAGYaZK1Iy0gIFsAj47V4.jpeg"
+  },
+  {
+    "name": "Emma Nixon",
+    "position": "Vice President",
+    "major": "Junior, Chemical Engineering",
+    "email": "aggies4limbs.vp@gmail.com",
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_officers_img_4_emma_nixon.jpg-bX1M0LX48ZNIbmOjnRkhePYDIOjgT3.jpeg"
+  },
+  {
+    "name": "Shelby Stephens",
+    "position": "Treasurer",
+    "major": "Junior, Biomedical Engineering",
+    "email": "aggies4limbs.treasurer1@gmail.com",
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_officers_img_7_shelby_stephens.jpg-o7oka5SvkRJdJq0EeMnVgQzgqoUsjm.jpeg"
+  },
+  {
+    "name": "Sherihan Jaouhari",
+    "position": "Internal Operations",
+    "major": "Senior, Biomedical Engineering",
+    "email": "aggies4limbs.io@gmail.com",
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_officers_img_8_sherihan_jaouhari.jpg-TVrbuPEvh3DSdMmAjJBTykxW2n8YVQ.jpeg"
+  },
+  {
+    "name": "Alani Cameron",
+    "position": "Event Planning Co-Officer",
+    "major": "Sophomore, Engineering Technology",
+    "email": "aggies4limbs.events@gmail.com"
+  },
+  {
+    "name": "Iliyan Basaria",
+    "position": "Event Planning Co-Officer",
+    "major": "Senior, Biomedical Engineering",
+    "email": "aggies4limbs.events@gmail.com",
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_officers_img_6_iliyan_basaria.jpg-u60PZwllKrzJzkCouvoQ6MrWpStZ7t.jpeg"
+  },
+  {
+    "name": "Sawyer Pardue",
+    "position": "Fundraising Officer",
+    "major": "Sophomore, Biomedical Sciences",
+    "email": "aggies4limbs.fundraising@gmail.com"
+  },
+  {
+    "name": "Audrey Sapp",
+    "position": "Service Officer",
+    "major": "Sophomore, Journalism",
+    "email": "aggies4limbs.service@gmail.com",
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_officers_img_3_audrey_sapp.jpg-ZqW1gZK6ntj5HOAAOWIJbDsDoRUk5u.jpeg"
+  },
+  {
+    "name": "Ethan McCarty",
+    "position": "Social Officer",
+    "major": "Senior, Kinesiology",
+    "email": "aggies4limbs.social@gmail.com",
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_officers_img_5_ethan_mccarty.jpg-vh2Fp4FsJ9zYgHs4OUzc3BBC3Z1xLl.jpeg"
+  },
+  {
+    "name": "Tanya Philip",
+    "position": "Advertising Officer",
+    "major": "Sophomore, Biomedical Engineering",
+    "email": "aggies4limbs.advertising@gmail.com"
+  }
+]
+

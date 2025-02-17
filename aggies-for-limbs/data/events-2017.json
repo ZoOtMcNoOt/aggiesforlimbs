@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "id": "crawfish-boil-2017",
+      "title": "Crawfish Boil",
+      "date": "2017-04-29T14:00:00Z",
+      "endDate": "2017-04-29T17:00:00Z",
+      "location": {
+        "name": "Kreneck Tap",
+        "address": "1000 Kreneck Tap Rd",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77840"
+      },
+      "description": "Join us for Aggies For Limbs' First Annual Crawfish Boil! 100% of the proceeds go to Ashton's Angels to help someone in need of a prosthetic. Enjoy fresh crawfish with all the fixings, live music, and great company for a wonderful cause.",
+      "features": [
+        "Fresh boiled crawfish",
+        "Potatoes, corn, and mushrooms",
+        "Hot dogs (non-crawfish option)",
+        "Drinks included",
+        "Desserts",
+        "Live music",
+        "Dog-friendly (must be leashed)"
+      ],
+      "tickets": {
+        "general": {
+          "options": [
+            {
+              "name": "Adult Pre-sale",
+              "price": 15,
+              "description": "Includes full plate and drinks"
+            },
+            {
+              "name": "Child (10 and under)",
+              "price": 10,
+              "description": "Includes full plate and drinks"
+            },
+            {
+              "name": "At-door Ticket",
+              "price": 20,
+              "description": "Includes full plate and drinks"
+            }
+          ]
+        }
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_crawfish_boil_2017_img_6_event_graphic.jpg-gVtBzPjyZ0NM9v6oewE2rQVMW1WBo8.jpeg",
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_crawfish_boil_2017_img_1.jpg-NBCmfaROw2x1dBJA5xtYVCEbX5TtMH.jpeg",
+          "alt": "AFL volunteers preparing crawfish in large boiling pot outdoors"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_crawfish_boil_2017_img_3.jpg-Z2Y5Pp2izeERAYF40U08T1rnq40Gwz.jpeg",
+          "alt": "Students enjoying crawfish and refreshments at event tables"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_crawfish_boil_2017_img_4.jpg-ptOHg87QTWUlN7xqVramaSO5xgCts2.jpeg",
+          "alt": "Two AFL members in event t-shirts smiling at the camera"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_crawfish_boil_2017_img_7.jpg-X8nU13H2evfKk6wt5A1rVdheQkppXB.jpeg",
+          "alt": "Group of AFL volunteers in matching light blue event shirts"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_crawfish_boil_2017_img_2.jpg-PnMvc1VD4hpvuCizDn1SnaiztFC4l2.jpeg",
+          "alt": "Event attendees enjoying crawfish plates outdoors"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_crawfish_boil_2017_img_5.jpg-EMLcMGnDUtMg01DorppaesgqjO4bar.jpeg",
+          "alt": "Fun group photo of AFL members at the event"
+        }
+      ],
+      "notes": [
+        "Dogs are welcome but must be on a leash at all times",
+        "Live music throughout the event",
+        "Alternative food options available"
+      ]
+    }
+  ]
+}
+

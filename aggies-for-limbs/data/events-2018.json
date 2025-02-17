@@ -1,0 +1,120 @@
+{
+  "events": [
+    {
+      "id": "prancing-for-prosthetics-2018",
+      "title": "Prancing for Prosthetics 5K",
+      "date": "2018-12-01T08:30:00Z",
+      "endDate": "2018-12-01T12:00:00Z",
+      "location": {
+        "name": "Texas A&M University - Lot 50",
+        "address": "Emerging Technology Building",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77843"
+      },
+      "description": "Join us for our Christmas-themed 5K race benefiting Ashton's Angels! Each participant receives a dri-fit shirt, goodie bag, and a chance to win prizes as one of the top three runners. Bring your Christmas spirit and wear Santa hats, elf suits, antlers, or bells for this festive race. All proceeds go to our philanthropy Ashton's Angels, helping provide prosthetics to those in need.",
+      "features": [
+        "Dri-fit event shirt",
+        "Participant goodie bag",
+        "Prizes for top 3 runners",
+        "Silent auction after race",
+        "Christmas-themed costumes encouraged",
+        "Free parking at Lot 50"
+      ],
+      "schedule": {
+        "checkIn": "8:30 AM",
+        "raceStart": "9:15 AM",
+        "notes": "Please allow time for check-in as lines can be long. Parking available at Lot 50 near the ETB (Emerging Technology Building)."
+      },
+      "tickets": {
+        "earlyBird": {
+          "endDate": "2018-11-10T23:59:00Z",
+          "options": [
+            {
+              "name": "General Admission",
+              "price": 18,
+              "description": "Includes race entry and guaranteed shirt"
+            },
+            {
+              "name": "Shirt Only",
+              "price": 10,
+              "description": "Event shirt only"
+            }
+          ]
+        },
+        "general": {
+          "startDate": "2018-11-11T00:00:00Z",
+          "endDate": "2018-11-30T23:59:00Z",
+          "options": [
+            {
+              "name": "General Admission",
+              "price": 20,
+              "description": "Includes race entry, shirt not guaranteed"
+            }
+          ]
+        }
+      },
+      "donationInfo": {
+        "threshold": 100,
+        "benefit": "Name/logo on participant shirt",
+        "deadline": "2018-11-10T23:59:00Z",
+        "extendedDeadline": "2018-11-30T23:59:00Z",
+        "taxExemptEmail": "aggies4limbs.president@gmail.com"
+      },
+      "outcome": {
+        "amountRaised": 10000,
+        "achievement": "Most successful event to date, raising over $10,000 for prosthetic care"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_img_5_logo.jpg-er902cVGPqH95z0dplzWEgdtS3Jj9q.jpeg"
+    },
+    {
+      "id": "fajita-fiesta-2018",
+      "title": "Fajita Fiesta 2018",
+      "date": "2018-04-15T14:00:00Z",
+      "endDate": "2018-04-15T17:00:00Z",
+      "location": {
+        "name": "Texas A&M University Campus",
+        "address": "College Station",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77843"
+      },
+      "description": "Fajita Fiesta is Aggies For Limbs' spring semester food event, offering delicious fajitas and fun activities to raise money for Ashton's Angels. Join us for an afternoon of great food, games, and community spirit!",
+      "features": [
+        "Fajita plate with sides and drink",
+        "Cornhole tournament",
+        "Three-legged race",
+        "Inflatable jousting",
+        "Event t-shirts available"
+      ],
+      "schedule": {
+        "start": "2:00 PM",
+        "foodService": "2:00 PM",
+        "notes": "Games and activities run throughout the event"
+      },
+      "tickets": {
+        "general": {
+          "options": [
+            {
+              "name": "Pre-sale Ticket",
+              "price": 10,
+              "description": "Includes fajita plate, sides, drink, and access to all activities"
+            },
+            {
+              "name": "At-door Ticket",
+              "price": 15,
+              "description": "Includes fajita plate, sides, drink, and access to all activities"
+            },
+            {
+              "name": "Event T-shirt",
+              "price": 10,
+              "description": "Available online and at the door"
+            }
+          ]
+        }
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_img_5_logo.jpg-er902cVGPqH95z0dplzWEgdtS3Jj9q.jpeg"
+    }
+  ]
+}
+

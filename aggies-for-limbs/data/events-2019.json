@@ -1,0 +1,81 @@
+{
+  "events": [
+    {
+      "id": "boot-scootin-bbq-2019",
+      "title": "Boot Scootin' BBQ 2019",
+      "date": "2019-04-07T13:00:00Z",
+      "endDate": "2019-04-07T16:00:00Z",
+      "location": {
+        "name": "Texas A&M University Campus",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77843"
+      },
+      "description": "Our spring fundraiser featuring BBQ and western-themed entertainment. Despite the rain, we had a full crowd turn out to support our cause, demonstrating the strong community backing for Aggies for Limbs' mission.",
+      "features": ["BBQ dinner", "Western-themed entertainment", "Community gathering", "Rain or shine event"],
+      "outcome": {
+        "amountRaised": 5500,
+        "achievement": "Successful spring fundraiser with strong attendance despite rain"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_boot_scooting_bbq_2019_img_3_event_graphic.jpg-fZUK9dOmtYMBbXMh7gV0jOvuo0eJf2.jpeg",
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_boot_scooting_bbq_2019_img_3_event_graphic.jpg-fZUK9dOmtYMBbXMh7gV0jOvuo0eJf2.jpeg",
+          "alt": "Boot Scootin' BBQ event logo featuring western boots and cowboy hat design in orange and red colors"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_boot_scooting_bbq_2019_img_4_banner.jpg-v9VsRbC39cl8QSWhDgfVoAXDDXqodE.jpeg",
+          "alt": "Event banner with Boot Scootin' BBQ logo displayed outdoors at the venue"
+        }
+      ]
+    },
+    {
+      "id": "fun-run-for-prosthetics-2019",
+      "title": "Fun Run for Prosthetics 2019",
+      "date": "2019-11-23T09:00:00Z",
+      "endDate": "2019-11-23T12:00:00Z",
+      "location": {
+        "name": "Texas A&M University Campus",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77843"
+      },
+      "description": "Our Fall 2019 semester culminated in this successful Fun Run event blessed with beautiful running weather and great company. The event brought together students, families, and community members for a morning of fitness and fundraising.",
+      "features": [
+        "5K run/walk",
+        "Silent auction",
+        "Registration gift bags",
+        "Beautiful fall weather",
+        "Community gathering"
+      ],
+      "outcome": {
+        "amountRaised": 10000,
+        "achievement": "Raised over $10,000 to help provide prosthetics for our next angel"
+      },
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_fun_run_for_prosthetics_2019_img_1.jpg-RHsvdaYQhd05OfuKKpRJ2U7ArcNLv1.jpeg",
+          "alt": "Group photo of participants in running gear, wearing blue shorts and showing enthusiasm"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_fun_run_for_prosthetics_2019_img_10.jpg-SR8Ng9FHB8pTNfXljmbXhPCgJKJ8eh.jpeg",
+          "alt": "Large group photo of all participants gathered under the finish line/banner"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_fun_run_for_prosthetics_2019_img_11.jpg-c2jMyY3qDf5oOPj4sTBP6Vv83WqeFZ.jpeg",
+          "alt": "Small group of runners posing together on the course with fall foliage in background"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_fun_run_for_prosthetics_2019_img_9.jpg-ilRNzzkjCsmaZSR4PaTs3mG5kRB4so.jpeg",
+          "alt": "Young child using a walker participating in the event, wearing a floral print top"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_fun_run_for_prosthetics_2019_img_6.jpg-1dCSXQcD353zpvgTD7rvUU3UTwo13w.jpeg",
+          "alt": "Two participants posing together near a campus building, one in maroon shirt and one in Texas flag shorts"
+        }
+      ],
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_fun_run_for_prosthetics_2019_img_1.jpg-RHsvdaYQhd05OfuKKpRJ2U7ArcNLv1.jpeg"
+    }
+  ]
+}
+

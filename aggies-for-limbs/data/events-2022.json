@@ -1,0 +1,128 @@
+{
+  "events": [
+    {
+      "id": "grill-n-chill-2022",
+      "title": "Grill 'N Chill 2022",
+      "date": "2022-04-30T13:00:00Z",
+      "endDate": "2022-04-30T15:00:00Z",
+      "location": {
+        "name": "Brian Bachmann Community Park",
+        "address": "1600 Rock Prairie Rd",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77845"
+      },
+      "description": "Grill 'N Chill is Aggies For Limbs' annual food event for this semester. A food event is held every April near Texas A&M University's campus and is open to all families. This event is a fun cookout to raise money for Ashton's Angels. 100% of proceeds will be given to Ashton's Angels.",
+      "features": [
+        "Lots of American grill themed food",
+        "Yard games and team competitions",
+        "Silent Auction",
+        "Live music by Braydon Zink"
+      ],
+      "schedule": {
+        "start": "1:00 PM",
+        "end": "3:00 PM",
+        "notes": "Check in will be at the pavilion. There will be free parking at the venue."
+      },
+      "tickets": {
+        "options": [
+          {
+            "name": "Food Ticket",
+            "price": 10
+          },
+          {
+            "name": "Event T-shirt",
+            "price": 12
+          },
+          {
+            "name": "Food & T-shirt Package",
+            "price": 20
+          }
+        ],
+        "note": "Ordering by 4/10 guarantees you an event t-shirt. Tickets will not be sold day of event.",
+        "additionalInfo": "Prizes awarded for competition winners!"
+      },
+      "donationInfo": {
+        "threshold": 100,
+        "benefit": "Name/logo on event t-shirt",
+        "example": "The Tucker Family",
+        "deadline": "2022-04-10",
+        "taxExemptEmail": "ashtonsangelss@gmail.com"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_grill_n_chill_2022_img_2.jpg-8FGNRIN6QuSCPjLDR8nc7jYk2WmDrg.jpeg",
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_grill_n_chill_2022_img_2.jpg-8FGNRIN6QuSCPjLDR8nc7jYk2WmDrg.jpeg",
+          "alt": "Group photo of Aggies for Limbs members at Brian Bachmann Community Park"
+        },
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_grill_n_chill_2022_img_1.jpg-9DcOh2azJnzFWbc2sAWedQSRgYboZ2.jpeg",
+          "alt": "Event registration setup with Aggies for Limbs banners and check-in tables at a covered pavilion with a Texas star emblem"
+        }
+      ]
+    },
+    {
+      "id": "turkey-run-2022",
+      "title": "Turkey Run 2022",
+      "date": "2022-11-20T08:30:00Z",
+      "endDate": "2022-11-20T12:00:00Z",
+      "location": {
+        "name": "Tiffany Park",
+        "address": "3890 Copperfield Dr",
+        "city": "Bryan",
+        "state": "TX",
+        "zip": "77802"
+      },
+      "description": "Turkey Run is Aggies For Limbs' annual 5k event for this semester. A 5k event is held every November or December near Texas A&M University's campus and is open to all families. This event is a fun fall themed 5k run or walk to raise money for Ashton's Angels. 100% of proceeds will be given to Ashton's Angels.",
+      "features": [
+        "Dress up in your favorite Fall/Thanksgiving gear",
+        "Coffee to keep you warm",
+        "Treats to fill your belly after you run",
+        "Live music by Ty Walker",
+        "Yard Games",
+        "Silent Auction",
+        "Prizes awarded to competition winners",
+        "T-shirt included with ticket"
+      ],
+      "schedule": {
+        "checkIn": "8:30 AM",
+        "raceStart": "9:00 AM",
+        "notes": "Please allow some time to check in, lines can be long. Check in will be at the pavilion. There will be free parking at the venue."
+      },
+      "tickets": {
+        "earlyBird": {
+          "endDate": "2022-11-03",
+          "options": [
+            {
+              "name": "Event Ticket",
+              "price": 20,
+              "description": "Includes event t-shirt"
+            }
+          ],
+          "note": "Ordering by 11/3 guarantees you an event t-shirt"
+        },
+        "general": {
+          "startDate": "2022-11-04",
+          "endDate": "2022-11-20",
+          "options": [
+            {
+              "name": "Event Ticket",
+              "price": 23
+            }
+          ],
+          "note": "Ordering after 11/3 will be first come first serve for extra shirts"
+        }
+      },
+      "donationInfo": {
+        "threshold": 100,
+        "benefit": "Name/logo on event t-shirt",
+        "example": "The Tucker Family",
+        "deadline": "2022-11-03",
+        "extendedDeadline": "2022-11-13",
+        "taxExemptEmail": "ashtonsangelss@gmail.com"
+      },
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_turkey_run_2022_img_1_event_graphic.jpg-GBScGbp2XdRa9Vsj4vPHWjWFo7DoRh.jpeg"
+    }
+  ]
+}
+

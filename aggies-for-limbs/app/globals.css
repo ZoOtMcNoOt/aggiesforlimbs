@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --navy: #03204d;
+  --teal: #00b2ca;
+  --white: #ffffff;
+  --maroon: #500000;
+  --gray-light: #f5f7fa;
+  --gray-dark: #2d3748;
+}
+
+@layer base {
+  body {
+    @apply bg-gray-light text-gray-dark;
+  }
+}
+
+.hero-gradient {
+  background: linear-gradient(135deg, var(--navy) 0%, var(--teal) 100%);
+}
+
+.parallax-section {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-hover {
+  transition: transform 0.3s ease-in-out;
+}
+
+.card-hover:hover {
+  transform: translateY(-5px);
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+

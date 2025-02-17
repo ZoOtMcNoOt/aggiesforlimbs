@@ -1,0 +1,64 @@
+[
+  {
+    "id": "advertising",
+    "name": "Advertising",
+    "description": "This committee is the marketing of Aggies for Limbs. You will be giving input for the designs of PR, making flyers and banners, and talking to organizations on campus. This committee helps spread the word about our organization and the various events we host.",
+    "responsibilities": [
+      "Design PR materials",
+      "Create flyers and banners",
+      "Liaise with campus organizations",
+      "Promote events"
+    ],
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_committees_img_3_advertising.jpg-stO5lG0JHgGfV9vbggzRW3vZSc9AWl.jpeg",
+    "imageAlt": "AFL members displaying recruitment banner featuring the organization's logo and upcoming informational meeting details"
+  },
+  {
+    "id": "event-planning",
+    "name": "Event Planning",
+    "description": "This committee plans the logistics of our big event each semester. Members will be deciding on t-shirt designs, activities, decorations, and other things to draw people to come.",
+    "responsibilities": ["Plan semester events", "Design t-shirts", "Organize activities", "Manage decorations"],
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_committees_img_2_event_planning.jpg-XuC3KxdiTQUU7o9jI6e928Scaj50Va.jpeg",
+    "imageAlt": "Participants posing under a festive balloon arch at the Prancing for Prosthetics finish line"
+  },
+  {
+    "id": "fundraising",
+    "name": "Fundraising",
+    "description": "This committee will raise money throughout the semester through small events on campus to profit shares. An example of an event on campus would be a bake sale or hot chocolate sales, etc. This will be a good way to raise money for our Angel, as well as awareness to our cause.",
+    "responsibilities": [
+      "Organize small fundraising events",
+      "Manage profit shares",
+      "Conduct bake sales",
+      "Raise awareness"
+    ],
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_committees_img_1_fundraising.jpg-9q05O7drH73AwVYmVhtM8uo9RQx4PI.jpeg",
+    "imageAlt": "Members hosting a bake sale fundraiser with decorated table and baked goods"
+  },
+  {
+    "id": "social",
+    "name": "Social",
+    "description": "This committee helps bring Aggies for Limbs together. Members will think of different fun activities for the organization to do. There will be big social events, like our member retreat, as well as small get togethers for members, like study groups and Bahama Bucks.",
+    "responsibilities": [
+      "Plan social events",
+      "Organize member retreat",
+      "Arrange study groups",
+      "Coordinate small gatherings"
+    ],
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_committees_img_4_social.jpg-tlaGeYufZBnpd6uMcmjONzA8gZX7u3.jpeg",
+    "imageAlt": "Group selfie of AFL members at sunset showing the friendly, social atmosphere of the organization"
+  },
+  {
+    "id": "service",
+    "name": "Service",
+    "description": "This committee helps give back to our community, specifically the Bryan College Station Area, and working with other organizations on campus. In total, we have donated over 200 cans to the 12th Can and have helped out at Build working on portable clinics. In the spring, we do a large group for Big Event and have a booth at Kyle Field Day. A big service project we have started recently is working concession stands at Aggie Football games.",
+    "responsibilities": [
+      "Organize community service projects",
+      "Coordinate with campus organizations",
+      "Participate in Big Event",
+      "Manage Kyle Field Day booth",
+      "Work concession stands at football games"
+    ],
+    "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_committees_img_5_service%20-%20Copy.jpg-UiiqnlW5VojgscfAFkBIVX8i7HSRgl.jpeg",
+    "imageAlt": "Members participating in an outdoor service project carrying supplies"
+  }
+]
+

@@ -1,0 +1,13 @@
+{
+  "name": "Aggies for Limbs",
+  "established": 2016,
+  "university": "Texas A&M University",
+  "mission": "Our mission, in Aggies for Limbs, is to raise money for the local non-profit called Ashton's Angels, which provides prosthetics for those who cannot afford them. Their purpose is to get people back up on their feet so they can continue providing for themselves and their families!",
+  "impact": {
+    "description": "Founded in the Fall of 2016, Aggies for Limbs is built on serving others. To this day, we have raised over 5 thousand dollars every semester since Aggies for Limbs was founded. We have provided a total of 9 prosthetic legs to 10 well deserving people.",
+    "fundingPerSemester": "5,000+",
+    "prostheticLegsProvided": 9,
+    "livesChanged": 10
+  }
+}
+

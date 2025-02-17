@@ -1,0 +1,83 @@
+{
+  "recruitment": {
+    "semester": "Spring 2025",
+    "events": [
+      {
+        "name": "MSC Open House",
+        "date": "Sunday, January 19th",
+        "time": "1:00-5:00pm"
+      },
+      {
+        "name": "Informational",
+        "date": "Thursday, January 23rd",
+        "time": "8:30-9:30pm",
+        "location": "MSC room 1401"
+      },
+      {
+        "name": "Century Square Social",
+        "date": "Wednesday, January 29th",
+        "time": "6-8pm",
+        "location": "Century Square (come and go as you please)"
+      },
+      {
+        "name": "Applications Due",
+        "date": "Sunday, February 2nd",
+        "time": "11:59pm"
+      },
+      {
+        "name": "Interviews",
+        "date": "January 30th - February 4th"
+      },
+      {
+        "name": "First Meeting",
+        "date": "Wednesday, February 5th",
+        "time": "8:30pm",
+        "location": "MSC 2501"
+      }
+    ]
+  },
+  "applicationInfo": "Email the application in PDF form to our president and vice president at the emails listed on the application. Once you apply, you will be sent a confirmation email with a signup sheet for interviews. Sign up for a time slot to interview that works for you by midnight the night before. These are casual interviews and will last no more than 30 minutes.",
+  "faq": [
+    {
+      "question": "Who can join?",
+      "answer": "Anyone, as long as you are a student at Texas A&M University!"
+    },
+    {
+      "question": "When can I join?",
+      "answer": "We take new applicants at the beginning of every semester."
+    },
+    {
+      "question": "How can I join?",
+      "answer": "Fill out the application above and send it to our President and Vice President by the due date and then sign up for an interview."
+    },
+    {
+      "question": "Is there a limit of how many members accepted?",
+      "answer": "The limit does not exist."
+    },
+    {
+      "question": "Are there member dues?",
+      "answer": "Yes, $30 for new members which include a member shirt and $20 for returning members."
+    },
+    {
+      "question": "When are meetings?",
+      "answer": "Our meetings are every Wednesday at 8:30pm"
+    },
+    {
+      "question": "Are there points? What is required of me?",
+      "answer": "There are several member requirements that will be outlined at the time of your interview. All are very obtainable and are normal requirements to have within an organization."
+    },
+    {
+      "question": "What else do we do besides raise money?",
+      "answer": "We do quite a lot more. We have an awesome social committee that plans fun hangouts and events for all of us to get to know each other. There is always an intramural team forming from our organization, we have done volleyball, flag football, and soccer in the past. We have an amazing service committee that helps make sure we are giving back to the the Bryan College Station area and other organizations as well. To learn about all of our committees, visit the Committee page under Members."
+    },
+    {
+      "question": "Do I get to pick my committee? When do I pick it?",
+      "answer": "You will receive a brief introduction of each committee during your interview. After completing the interview, you will fill out a preference form to preference your top three choices. You will find out at the first meeting which committee you are in. Our executive officers do their best to give everyone one of their top choices, but there is no bad committee to be in. Go to our Committee page on our website to learn more about all of them."
+    },
+    {
+      "question": "What kinds of events does Aggies for Limbs do?",
+      "answer": "For the past five years, Aggies for Limbs has done two main events, one each semester. In the fall, AFL hosts Fun Run for Prosthetics 5K on campus. In the Fall 2019, we raised over $10,000! In the Spring, we have done a crawfish boil, a Fajita Fiesta, and a Boot Scootin' BBQ. During COVID semesters, we did online fundraisers to continue to spread awareness about our cause. Check out photos from our past events under the events tab on our website."
+    }
+  ]
+}
+

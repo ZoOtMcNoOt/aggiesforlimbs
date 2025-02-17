@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "id": "prancing-for-prosthetics-2016",
+      "title": "Prancing for Prosthetics",
+      "date": "2016-12-03T09:00:00Z",
+      "endDate": "2016-12-03T12:00:00Z",
+      "location": {
+        "name": "Texas A&M University Campus",
+        "city": "College Station",
+        "state": "TX",
+        "zip": "77843"
+      },
+      "description": "The inaugural Prancing for Prosthetics event that started our annual holiday tradition of combining fitness, festive spirit, and fundraising. This first-ever 5K run/walk demonstrated the strong community support that would become a hallmark of AFL events.",
+      "type": "Historical Event",
+      "features": ["5K run/walk", "Holiday-themed costumes", "Community gathering", "Inaugural AFL running event"],
+      "imageUrl": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_prancing_for_prosthetics_2016_img_1.jpg-x1fVhPo4e8X3eZ0QCIK88iAVwgvHtf.jpeg",
+      "gallery": [
+        {
+          "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_prancing_for_prosthetics_2016_img_1.jpg-x1fVhPo4e8X3eZ0QCIK88iAVwgvHtf.jpeg",
+          "alt": "Large group photo of participants at the First Annual Prancing for Prosthetics event, wearing winter gear and holiday accessories on a rainy day"
+        }
+      ],
+      "historical": {
+        "significance": "First running event organized by Aggies for Limbs",
+        "legacy": "Established the tradition of our annual holiday-themed 5K fundraiser"
+      }
+    }
+  ]
+}
+

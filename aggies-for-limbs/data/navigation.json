@@ -1,0 +1,11 @@
+[
+  { "name": "Home", "path": "/" },
+  { "name": "Our Angels", "path": "/our-angels" },
+  { "name": "Events", "path": "/events" },
+  { "name": "Recruitment", "path": "/recruitment" },
+  { "name": "Committees", "path": "/committees" },
+  { "name": "Officers", "path": "/officers" },
+  { "name": "Contribute", "path": "/contribute" },
+  { "name": "Contact", "path": "/contact" }
+]
+
