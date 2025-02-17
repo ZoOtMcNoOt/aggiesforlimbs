@@ -1,0 +1,77 @@
+Aggies for Limbs
+================
+
+This project is built with Next.js and includes several Node.js packages, components, and integrations designed to deliver a performant, responsive application.
+
+Project Structure:
+------------------
+aggiesforlimbs/
+├── app/           # Next.js pages and layouts
+├── components/    # Reusable UI components
+├── data/         # Static data such as events and committees
+├── lib/          # Utility functions and integrations
+├── public/       # Static assets
+└── README.md     # Project overview
+
+Features:
+---------
+- **Next.js Frontend:** Fast server-side rendering and static site generation.
+- **Responsive Design:** Optimized for desktop and mobile environments.
+- **State Management:** Utilizing Redux Toolkit and React Redux.
+- **Form Handling:** Integrated through React Hook Form and Radix UI components.
+- **Icons:** Using Lucide React for consistent iconography.
+- **Validation:** Leveraging Zod and @hookform/resolvers for form validation.
+
+Getting Started:
+----------------
+
+### Prerequisites
+- **Node.js** (version 14 or higher)
+- **npm** or **yarn**
+
+### Installation
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/aggiesforlimbs.git
+   cd aggiesforlimbs
+   ```
+
+2. **Install Dependencies:**
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. **Environment Variables:**
+   Copy the `.env.example` file to `.env` and update the values as needed:
+   ```bash
+   cp .env.example .env
+   ```
+
+Usage:
+------
+1. **Run the Development Server:**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+2. **Open the Application:**
+   Navigate to [http://localhost:3000](http://localhost:3000) in your browser to view the running app.
+
+Contributing:
+-------------
+Contributions are welcome! To contribute, follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes and push to your fork.
+4. Open a pull request outlining your modifications.
+
+License:
+--------
+This project is licensed under the MIT License.
+
+Contact:
+--------
+For questions or further details, please contact the project maintainers or open an issue in the repository.
