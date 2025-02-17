@@ -1,6 +1,6 @@
 {
-    "build": {
-      "env": {},
-      "rootDirectory": "aggies-forlimbs/aggies-forlimbs"
-    }
+  "rootDirectory": "aggies-forlimbs/aggies-forlimbs",
+  "build": {
+    "env": {}
   }
+}
