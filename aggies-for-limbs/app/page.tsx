@@ -78,7 +78,7 @@ export default function Home() {
               <div className="bg-teal w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Heart className="text-white w-8 h-8" />
               </div>
-              <h3 className="text-2xl font-bold text-navy mb-2">{siteInfo.impact?.livesChanged || 10}</h3>
+              <h3 className="text-2xl font-bold text-navy mb-2">{siteInfo.impact?.livesChanged || 9}</h3>
               <p className="text-gray-600">Lives Changed</p>
             </div>
           </div>
