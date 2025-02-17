@@ -1,6 +1,19 @@
 import Link from "next/link"
 import { Facebook, Instagram } from "lucide-react"
-import { FaXTwitter } from "react-icons/fa" // New Twitter icon import
+
+// New Twitter (X) icon as an inline React component
+const NewTwitterIcon = (props) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 48 48"
+    width="24"
+    height="24"
+    fill="currentColor"
+    {...props}
+  >
+    <path d="M24 4C12.954 4 4 12.954 4 24s8.954 20 20 20 20-8.954 20-20S35.046 4 24 4zm8.485 27.071l-2.828 2.829L24 26.828l-5.657 5.657-2.829-2.829L21.172 24 15.515 18.343l2.829-2.829L24 21.172l5.657-5.657 2.829 2.829L26.828 24l5.657 5.657z"/>
+  </svg>
+)
 
 const Footer = ({ siteInfo, socialMedia }) => {
   return (
@@ -37,7 +50,7 @@ const Footer = ({ siteInfo, socialMedia }) => {
                 rel="noopener noreferrer"
                 className="hover:text-maroon"
               >
-                <FaXTwitter />
+                <NewTwitterIcon />
               </Link>
             </div>
           </div>

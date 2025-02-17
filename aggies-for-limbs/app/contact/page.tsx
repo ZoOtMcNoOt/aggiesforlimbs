@@ -2,10 +2,21 @@ import { getData } from "@/lib/cms"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Mail, Facebook, Instagram } from "lucide-react"
-import { FaXTwitter } from "react-icons/fa" 
 import { ContactForm } from "@/components/ContactForm"
 
-// Helper function to combine co-roles with the same email
+const NewTwitterIcon = (props) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 48 48"
+    width="24"
+    height="24"
+    fill="currentColor"
+    {...props}
+  >
+    <path d="M24 4C12.954 4 4 12.954 4 24s8.954 20 20 20 20-8.954 20-20S35.046 4 24 4zm8.485 27.071l-2.828 2.829L24 26.828l-5.657 5.657-2.829-2.829L21.172 24 15.515 18.343l2.829-2.829L24 21.172l5.657-5.657 2.829 2.829L26.828 24l5.657 5.657z"/>
+  </svg>
+)
+
 const combineCoRoles = (officers) => {
   const combinedOfficers = []
   const emailMap = {}
@@ -103,7 +114,7 @@ export default function Contact() {
                       variant="outline"
                       className="w-full justify-start space-x-2 hover:bg-navy hover:text-white transition-colors"
                     >
-                      <FaXTwitter className="h-5 w-5" />
+                      <NewTwitterIcon className="h-5 w-5" />
                       <span>Follow us on Twitter</span>
                     </Button>
                   </a>
