@@ -16,20 +16,20 @@ export default function Home() {
             <div className="text-white space-y-6 animate-fade-in">
               <h1 className="text-5xl font-bold leading-tight">Help someone take their second first steps</h1>
               <p className="text-xl opacity-90">{siteInfo.mission || "Help us make a difference in people's lives."}</p>
-              <div className="flex space-x-4">
+              <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
                 <Link href="/contribute">
-                  <Button className="bg-teal hover:bg-teal/90 text-white px-8 py-6 text-lg">
+                  <Button className="w-full sm:w-auto bg-teal hover:bg-teal/90 text-white px-8 py-3 sm:px-10 sm:py-4 text-base sm:text-lg">
                     Donate Now
-                    <ArrowRight className="ml-2" />
+                    <ArrowRight className="ml-2 h-4 w-4 sm:h-5 sm:w-5" />
                   </Button>
                 </Link>
                 <Link href="/members">
                   <Button
                     variant="outline"
-                    className="bg-white/10 border-white text-white hover:bg-white hover:text-navy px-8 py-6 text-lg font-medium border-2 transition-colors duration-300"
+                    className="w-full sm:w-auto bg-white/10 border-white text-white hover:bg-white hover:text-navy px-8 py-3 sm:px-10 sm:py-4 text-base sm:text-lg font-medium border-2 transition-colors duration-300"
                   >
                     Join Us
-                    <Users className="ml-2" />
+                    <Users className="ml-2 h-4 w-4 sm:h-5 sm:w-5" />
                   </Button>
                 </Link>
               </div>
