@@ -2,7 +2,7 @@ import { getData } from "@/lib/cms"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Mail, Facebook, Instagram } from "lucide-react"
-import { FaTwitter } from "react-icons/fa" 
+import { FaXTwitter } from "react-icons/fa" 
 import { ContactForm } from "@/components/ContactForm"
 
 // Helper function to combine co-roles with the same email
@@ -103,7 +103,7 @@ export default function Contact() {
                       variant="outline"
                       className="w-full justify-start space-x-2 hover:bg-navy hover:text-white transition-colors"
                     >
-                      <FaTwitter className="h-5 w-5" />
+                      <FaXTwitter className="h-5 w-5" />
                       <span>Follow us on Twitter</span>
                     </Button>
                   </a>

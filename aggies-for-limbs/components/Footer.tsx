@@ -1,6 +1,6 @@
 import Link from "next/link"
 import { Facebook, Instagram } from "lucide-react"
-import { FaTwitter } from "react-icons/fa" // New Twitter icon import
+import { FaXTwitter } from "react-icons/fa" // New Twitter icon import
 
 const Footer = ({ siteInfo, socialMedia }) => {
   return (
@@ -37,7 +37,7 @@ const Footer = ({ siteInfo, socialMedia }) => {
                 rel="noopener noreferrer"
                 className="hover:text-maroon"
               >
-                <FaTwitter />
+                <FaXTwitter />
               </Link>
             </div>
           </div>
