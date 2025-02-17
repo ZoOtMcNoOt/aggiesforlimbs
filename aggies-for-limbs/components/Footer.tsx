@@ -1,5 +1,6 @@
 import Link from "next/link"
-import { Facebook, Instagram, Twitter } from "lucide-react"
+import { Facebook, Instagram } from "lucide-react"
+import { FaTwitter } from "react-icons/fa" // New Twitter icon import
 
 const Footer = ({ siteInfo, socialMedia }) => {
   return (
@@ -14,7 +15,12 @@ const Footer = ({ siteInfo, socialMedia }) => {
           <div className="mt-4 md:mt-0">
             <h3 className="text-lg font-bold mb-2 text-center md:text-left">Connect With Us</h3>
             <div className="flex space-x-4 justify-center md:justify-start">
-              <Link href={socialMedia.facebook} target="_blank" rel="noopener noreferrer" className="hover:text-maroon">
+              <Link
+                href={socialMedia.facebook}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-maroon"
+              >
                 <Facebook />
               </Link>
               <Link
@@ -25,8 +31,13 @@ const Footer = ({ siteInfo, socialMedia }) => {
               >
                 <Instagram />
               </Link>
-              <Link href={socialMedia.twitter} target="_blank" rel="noopener noreferrer" className="hover:text-maroon">
-                <Twitter />
+              <Link
+                href={socialMedia.twitter}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-maroon"
+              >
+                <FaTwitter />
               </Link>
             </div>
           </div>
