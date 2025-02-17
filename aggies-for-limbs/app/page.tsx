@@ -17,13 +17,13 @@ export default function Home() {
               <h1 className="text-5xl font-bold leading-tight">Help someone take their second first steps</h1>
               <p className="text-xl opacity-90">{siteInfo.mission || "Help us make a difference in people's lives."}</p>
               <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-                <Link href="/contribute">
+                <Link href="/contribute#top">
                   <Button className="w-full sm:w-auto bg-teal hover:bg-teal/90 text-white px-8 py-3 sm:px-10 sm:py-4 text-base sm:text-lg">
                     Donate Now
                     <ArrowRight className="ml-2 h-4 w-4 sm:h-5 sm:w-5" />
                   </Button>
                 </Link>
-                <Link href="/members">
+                <Link href="/recruitment#top">
                   <Button
                     variant="outline"
                     className="w-full sm:w-auto bg-white/10 border-white text-white hover:bg-white hover:text-navy px-8 py-3 sm:px-10 sm:py-4 text-base sm:text-lg font-medium border-2 transition-colors duration-300"
@@ -48,7 +48,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="py-20 bg-white">
+      <section id="impact" className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-navy mb-4">Our Impact</h2>
@@ -85,7 +85,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="py-20 bg-navy text-white">
+      <section id="stories" className="py-20 bg-navy text-white">
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
@@ -105,7 +105,7 @@ export default function Home() {
                   : "Discover inspiring stories of resilience and hope."}
               </p>
               <div>
-                <Link href="/our-angels">
+                <Link href="/our-angels#top">
                   <Button className="bg-teal hover:bg-teal/90 text-white px-8 py-4 text-lg transition-all duration-300 ease-in-out transform hover:scale-105">
                     Meet Our Angels
                     <ArrowRight className="ml-2" />
@@ -117,7 +117,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="py-20 bg-white">
+      <section id="community" className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-navy mb-4">Our Community</h2>
@@ -162,7 +162,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="py-20 bg-gray-light">
+      <section id="events" className="py-20 bg-gray-light">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-navy mb-4">Upcoming Events</h2>

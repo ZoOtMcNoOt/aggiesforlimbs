@@ -23,6 +23,7 @@ export default function RecruitmentPage() {
 
   return (
     <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <div id="top" />
       <h1 className="text-2xl sm:text-3xl font-bold mb-8 text-navy">Join Aggies for Limbs</h1>
       <div className="max-w-4xl mx-auto space-y-8 w-full">
         {/* Why Join AFL? */}
@@ -36,7 +37,7 @@ export default function RecruitmentPage() {
               member, you'll participate in fundraising events, community service, and social activities while working
               towards our mission of providing prosthetics to those in need.
             </p>
-            <Link href="/our-angels">
+            <Link href="/our-angels#top">
               <Button variant="outline" className="flex items-center space-x-2">
                 <span>See Our Impact</span>
                 <ChevronRight className="h-4 w-4" />
@@ -88,7 +89,7 @@ export default function RecruitmentPage() {
               As an AFL member, you'll be assigned to one of our committees each semester. Each committee plays a
               crucial role in our organization's success, from event planning to fundraising and community outreach.
             </p>
-            <Link href="/committees">
+            <Link href="/committees#top">
               <Button className="bg-teal hover:bg-teal/90 text-white">
                 Explore Committees
                 <ChevronRight className="ml-2 h-4 w-4" />

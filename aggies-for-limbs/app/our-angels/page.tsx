@@ -38,6 +38,7 @@ export default function OurAngels() {
 
   return (
     <div className="container mx-auto px-4 py-8">
+      <div id="top" />
       <h1 className="text-3xl font-bold mb-8 text-navy">Our Angels</h1>
       {angels.length > 0 ? (
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -55,7 +56,7 @@ export default function OurAngels() {
               <div className="p-6">
                 <h2 className="text-xl font-bold mb-2 text-navy">{angel.name}</h2>
                 <p className="text-gray-600 mb-4 line-clamp-3">{angel.story}</p>
-                <Link href={`/our-angels/${angel.id}`}>
+                <Link href={`/our-angels/${angel.id}#top`}>
                   <Button className="w-full bg-teal hover:bg-teal/90 text-white">
                     Read Story
                     <ArrowRight className="ml-2 h-4 w-4" />
