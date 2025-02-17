@@ -97,19 +97,21 @@ export default function Home() {
                 className="rounded-lg shadow-2xl object-cover"
               />
             </div>
-            <div className="space-y-6">
-              <h2 className="text-4xl font-bold">Real Stories, Real Impact</h2>
-              <p className="text-xl">
+            <div className="space-y-6 p-6 md:p-8 lg:p-10">
+              <h2 className="text-4xl font-bold leading-tight">Real Stories, Real Impact</h2>
+              <p className="text-xl leading-relaxed">
                 {siteInfo.angels && siteInfo.angels[0]
                   ? siteInfo.angels[0].story
                   : "Discover inspiring stories of resilience and hope."}
               </p>
-              <Link href="/our-angels">
-                <Button className="bg-teal hover:bg-teal/90 text-white px-8 py-6 text-lg">
-                  Meet Our Angels
-                  <ArrowRight className="ml-2" />
-                </Button>
-              </Link>
+              <div>
+                <Link href="/our-angels">
+                  <Button className="bg-teal hover:bg-teal/90 text-white px-8 py-4 text-lg transition-all duration-300 ease-in-out transform hover:scale-105">
+                    Meet Our Angels
+                    <ArrowRight className="ml-2" />
+                  </Button>
+                </Link>
+              </div>
             </div>
           </div>
         </div>
