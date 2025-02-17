@@ -1,5 +1,7 @@
 import Link from "next/link"
 import { Facebook, Instagram } from "lucide-react"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faXTwitter } from "@fortawesome/free-brands-svg-icons"
 
 const Footer = ({ siteInfo, socialMedia }) => {
   return (
@@ -38,7 +40,7 @@ const Footer = ({ siteInfo, socialMedia }) => {
                 rel="noopener noreferrer"
                 className="hover:text-maroon"
               >
-                <i className="bi bi-twitter-x h-5 w-5"></i>
+                <FontAwesomeIcon icon={faXTwitter} className="h-5 w-5" />
               </Link>
             </div>
           </div>

@@ -2,9 +2,10 @@ import { getData } from "@/lib/cms"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Mail, Facebook, Instagram } from "lucide-react"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faXTwitter } from "@fortawesome/free-brands-svg-icons"
 import { ContactForm } from "@/components/ContactForm"
 
-// Removed the NewTwitterIcon component
 
 const combineCoRoles = (officers) => {
   const combinedOfficers = []
@@ -103,7 +104,7 @@ export default function Contact() {
                       variant="outline"
                       className="w-full justify-start space-x-2 hover:bg-navy hover:text-white transition-colors"
                     >
-                      <i className="bi bi-twitter-x h-5 w-5"></i>
+                      <FontAwesomeIcon icon={faXTwitter} className="h-5 w-5" />
                       <span>Follow us on Twitter</span>
                     </Button>
                   </a>
