@@ -22,6 +22,10 @@ Features:
 - **Icons:** Using Lucide React for consistent iconography.
 - **Validation:** Leveraging Zod and @hookform/resolvers for form validation.
 
+Note:
+-----
+- **Backend:** The backend is currently not set up. Please refer to future documentation for backend configuration and integration details.
+
 Getting Started:
 ----------------
 
@@ -60,6 +64,16 @@ Usage:
 2. **Open the Application:**
    Navigate to [http://localhost:3000](http://localhost:3000) in your browser to view the running app.
 
+To-Dos:
+-------
+- [ ] Integrate the backend services and set up API routes.
+- [ ] Write unit and integration tests for key components.
+- [ ] Improve documentation for components and hooks.
+- [ ] Refine CSS styles and responsive design adjustments.
+- [ ] Optimize performance for production builds.
+- [ ] Implement error handling and logging throughout the application.
+- [ ] Add more detailed instructions for deployment and CI/CD.
+
 Contributing:
 -------------
 Contributions are welcome! To contribute, follow these steps:
@@ -74,4 +88,4 @@ This project is licensed under the MIT License.
 
 Contact:
 --------
-For questions or further details, please contact the project maintainers or open an issue in the repository.
+For questions or further details, please contact me or open an issue in the repository.
