@@ -7,6 +7,7 @@ import { getData } from "@/lib/cms"
 import { ENV } from "@/lib/constants"
 import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Analytics } from "@vercel/analytics/react" 
+import LoadingScreen from "@/components/LoadingScreen"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -24,15 +25,14 @@ export default function RootLayout({
   const data = getData()
   return (
     <html lang="en">
+
       <body className={`${inter.className} bg-white text-gray-dark`}>
+        <LoadingScreen />
         <Header siteInfo={data.siteInfo} navigation={data.navigation} />
-        <main className="min-h-screen">
-          {children}
-          <SpeedInsights />
-          <Analytics />
-        </main>
+          <main className="min-h-screen">{children}</main>
         <Footer siteInfo={data.siteInfo} socialMedia={data.socialMedia} />
-        
+        <SpeedInsights/>
+        <Analytics />
       </body>
     </html>
   )

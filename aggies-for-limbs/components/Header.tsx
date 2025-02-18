@@ -37,7 +37,7 @@ const Header = ({ siteInfo, navigation }) => {
                 e.currentTarget.src = "/placeholder.svg?height=28&width=28"
               }}
             />
-            <div className="text-white hidden sm:block">
+            <div className="text-white">
               <h1 className="text-sm font-bold leading-tight whitespace-nowrap">{siteInfo.name}</h1>
               <p className="text-xs opacity-90 whitespace-nowrap">{siteInfo.university}</p>
             </div>
@@ -82,7 +82,7 @@ const Header = ({ siteInfo, navigation }) => {
           </nav>
         </div>
       )}
-      <div className="h-14 sm:h-16 lg:h-20"></div> {/* Spacer to prevent content overlap */}
+      <div className="h-10 sm:h-12 lg:h-10"></div> {/* Spacer to prevent content overlap */}
     </>
   )
 }
