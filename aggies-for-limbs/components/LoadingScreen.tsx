@@ -3,7 +3,7 @@ import { useState, useEffect } from "react"
 import Image from "next/image"
 
 const LoadingScreen = ({ 
-  duration = 1500, 
+  duration = 2500, 
   fadeOutDuration = 1000,
   logoUrl = "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/aggiesforlimbs_wixsite_com_home_img_5_logo.jpg-er902cVGPqH95z0dplzWEgdtS3Jj9q.jpeg",
   logoAlt = "Aggies for Limbs Logo",
