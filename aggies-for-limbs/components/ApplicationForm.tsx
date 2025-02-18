@@ -112,10 +112,10 @@ export function ApplicationForm() {
           <div className="space-y-2">
             <Label htmlFor="classification">Classification</Label>
             <Select onValueChange={(value) => register("classification").onChange({ target: { value } })}>
-              <SelectTrigger>
+              <SelectTrigger className="bg-white">
                 <SelectValue placeholder="Select your classification" />
               </SelectTrigger>
-              <SelectContent>
+              <SelectContent className="bg-white border border-gray-200">
                 <SelectItem value="freshman">Freshman</SelectItem>
                 <SelectItem value="sophomore">Sophomore</SelectItem>
                 <SelectItem value="junior">Junior</SelectItem>
