@@ -6,7 +6,7 @@ import Footer from "@/components/Footer"
 import { getData } from "@/lib/cms"
 import { ENV } from "@/lib/constants"
 import { SpeedInsights } from "@vercel/speed-insights/next"
-import { Analytics } from "@vercel/analytics/react" 
+import { Analytics } from "@vercel/analytics/next" 
 import LoadingScreen from "@/components/LoadingScreen"
 
 const inter = Inter({ subsets: ["latin"] })
